@@ -1,4 +1,4 @@
-# ** Prédiction de Remboursement de Prêt avec un Réseau de Neurones Artificiels (ANN)**
+# **Prédiction de Remboursement de Prêt avec un Réseau de Neurones Artificiels (ANN)**
 
 ## **Table des matières**
 
