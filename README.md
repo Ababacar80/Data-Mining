@@ -1,8 +1,4 @@
-Absolument \! Voici une version beaucoup plus détaillée du fichier README, élaborée à partir de l'analyse approfondie de votre notebook.
-
------
-
-# **Projet 1 : Prédiction de Remboursement de Prêt avec un Réseau de Neurones Artificiels (ANN)**
+# ** Prédiction de Remboursement de Prêt avec un Réseau de Neurones Artificiels (ANN)**
 
 ## **Table des matières**
 
